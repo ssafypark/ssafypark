@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🥇 Tier
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pbsu1213)](https://solved.ac/pbsu1213)
+🥇 Tier  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pbsu1213)](https://solved.ac/pbsu1213/)
