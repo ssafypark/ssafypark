@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![깃허브용](https://user-images.githubusercontent.com/99133426/209479751-e685a046-a6ab-4146-8286-4f1dba2adf78.png)
+![짱구물개](https://user-images.githubusercontent.com/99133426/209545497-2420d4d9-6dd1-4064-be86-b386b5189214.png)
 ### 🥇 Tier  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pbsu1213)](https://solved.ac/pbsu1213/)
